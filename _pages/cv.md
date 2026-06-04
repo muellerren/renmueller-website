@@ -11,26 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Politics, Princeton University, 2028 (expected)
+* M.A. in Politics, Princeton University, 2025
+* B.S. in Mathematics, Michigan State University, 2022
+* B.A. in Political Science, Michigan State University, 2022
 
-Work experience
+Teaching experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Graduate Courses:
+* Fall 2024, Fall 2025:  Quantitative Methods II: Causal Inference (with Roc\'io Titiunik)
+Undergraduate Courses: 
+* Spring 2025: Political Economy of the United States (with Nolan McCarty)
+* Spring 2026: Congressional Politics (with Frances E. Lee)
   
 Skills
 ======
