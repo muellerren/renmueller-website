@@ -8,3 +8,7 @@ redirect_from:
 ---
 
 Ph.D. Candidate at Princeton Politics
+
+Advisor: Mat\'ias Iaryczower
+
+My research is on American politics. I 
