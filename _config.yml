@@ -26,7 +26,7 @@ author:
   avatar           : "files/renmueller.jpg"
   name             : "Ren Mueller"
   # pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Princeton, NJ"
   employer         : "Princeton University"
   # uri              : # URL
