@@ -153,9 +153,9 @@
     height: auto;
   }
 
-  img {
+  .author__avatar-image {
     max-width: 175px;
-    border-radius: 0;
+    border-radius: 0 !important;
 
     @include breakpoint($large) {
       padding: 5px;
