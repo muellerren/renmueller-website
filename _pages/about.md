@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. Candidate at Princeton Politics
+Hi! I am a PhD candidate at Princeton in the Politics department.
 
-Advisor: Mat\'ias Iaryczower
-
-My research is on American politics. I 
+I have three main areas of interest in my research.
+1. Career concerns in US politics:
+2. 
